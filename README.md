@@ -9,4 +9,6 @@ Buffer => Buffer的写入、读取、合并、拷贝、裁剪、转换成JSON
 
 Stream => 可读流、写入流  
 
-Module => 模块化编程
+Module => 模块化编程  
+
+Global => 全局对象，console、process、timeout、interval  
