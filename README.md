@@ -15,4 +15,6 @@ Global => 全局对象，console、process、timeout、interval
 
 Fs => 使用fs模块对文件进行读取、写入  
 
-GetPost => GET/POST请求
+GetPost => GET/POST请求  
+
+Util => 工具模块: OS、Path、Net、DNS、Domain
