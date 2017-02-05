@@ -1,8 +1,6 @@
 # NodeCode
 NodeCode
 
-Http => Http模块创建一个简单的服务器  
-
 Events => Events模块的使用，事件驱动  
 
 Buffer => Buffer的写入、读取、合并、拷贝、裁剪、转换成JSON  
@@ -17,4 +15,6 @@ Fs => 使用fs模块对文件进行读取、写入
 
 GetPost => GET/POST请求  
 
-Util => 工具模块: OS、Path、Net、DNS、Domain
+Util => 工具模块: OS、Path、Net、DNS、Domain  
+
+Http => Http模块创建Web服务器及客户端  
