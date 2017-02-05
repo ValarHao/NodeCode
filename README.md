@@ -13,4 +13,6 @@ Module => 模块化编程
 
 Global => 全局对象，console、process、timeout、interval  
 
-Fs => 使用fs模块对文件进行读取、写入
+Fs => 使用fs模块对文件进行读取、写入  
+
+GetPost => GET/POST请求
